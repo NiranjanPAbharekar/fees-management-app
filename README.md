@@ -30,7 +30,7 @@ A complete full-stack web application built using **Angular**, **Node.js (Expres
 ## 🖼️ Screenshots
 
 ### 🟢 Signup Page
-![Signup Screenshot](https://via.placeholder.com/800x400?text=Signup+Page)
+![Signup Screenshot](https://github.com/NiranjanPAbharekar/fees-management-app/blob/main/SignUp.png)
 
 ### 🔵 Login Page
 ![Login Screenshot](https://via.placeholder.com/800x400?text=Login+Page)

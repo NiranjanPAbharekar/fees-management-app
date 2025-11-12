@@ -8,7 +8,7 @@ A complete full-stack web application built using **Angular**, **Node.js (Expres
 
 | Layer | Technology |
 |--------|-------------|
-| Frontend | Angular 17, TypeScript, HTML5, SCSS |
+| Frontend | Angular 19, TypeScript, HTML5, SCSS |
 | Backend | Node.js, Express.js |
 | Database | MongoDB (Mongoose ORM) |
 | Auth | bcrypt for password hashing |
@@ -33,7 +33,7 @@ A complete full-stack web application built using **Angular**, **Node.js (Expres
 ![Signup Screenshot](https://github.com/NiranjanPAbharekar/fees-management-app/blob/main/SignUp.png)
 
 ### 🔵 Login Page
-![Login Screenshot](https://via.placeholder.com/800x400?text=Login+Page)
+![Login Screenshot](https://github.com/NiranjanPAbharekar/fees-management-app/blob/main/Login.png)
 
 
 
